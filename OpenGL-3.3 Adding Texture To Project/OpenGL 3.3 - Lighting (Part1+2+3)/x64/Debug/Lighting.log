@@ -1,0 +1,57 @@
+﻿  main.cpp
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(323,67): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(323,63): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(323,59): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(335,61): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(335,57): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(335,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(339,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(340,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(471,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(474,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(475,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(476,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(477,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(478,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(488,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(488,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(488,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(499,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(499,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(499,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(510,49): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(521,49): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(532,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(532,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(532,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(543,60): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(543,53): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(543,46): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(569,47): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(570,52): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(571,34): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(573,75): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(574,75): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(575,75): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(576,75): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(577,75): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(578,75): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(579,71): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(580,71): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(581,71): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(582,71): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(583,71): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(584,71): warning C4305: '-=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(588,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(595,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(602,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(610,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(615,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(620,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(625,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(630,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\main.cpp(635,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+  Lighting.vcxproj -> F:\academic\4-2\yt\Computer-Graphics-Youtube\OpenGL 3.3 - Lighting (Part1+2+3)\x64\Debug\Lighting.exe
